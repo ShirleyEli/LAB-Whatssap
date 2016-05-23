@@ -1,0 +1,26 @@
+{
+  "name": "whatssap",
+  "version": "1.0.0",
+  "description": "chat whatssap con nodejs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ShirleyEli@github.com/ShirleyEli/LAB-Whatssap.git"
+  },
+  "author": "shirley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirleyEli/LAB-Whatssap/issues"
+  },
+  "homepage": "https://github.com/ShirleyEli/LAB-Whatssap#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io":"^1.4.6"
+  }
+}
